@@ -1,0 +1,13 @@
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.exe.config
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.pdb
+D:\Study\Threading\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.exe.config
+D:\Study\Threading\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.exe
+D:\Study\Threading\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.pdb
+D:\Study\Threading\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.csprojAssemblyReference.cache
+D:\Study\Threading\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.csproj.CoreCompileInputs.cache
+D:\Study\Threading\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.exe
+D:\Study\Threading\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.pdb
